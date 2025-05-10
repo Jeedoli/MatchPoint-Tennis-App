@@ -7,6 +7,7 @@
 ![Python](https://img.shields.io/badge/python-3.12-blue.svg)
 ![Django](https://img.shields.io/badge/django-5.0-green.svg)
 ![DRF](https://img.shields.io/badge/djangorestframework-3.14-red.svg)
+</div>
 
 > 테니스 선수 매칭, 대회 관리 및 클럽 운영을 위한 종합 플랫폼
 
@@ -33,7 +34,7 @@ Alchemist 테니스 매칭 서비스는 테니스 선수들이 파트너를 찾�
 
 ## 🗂️ 프로젝트 구조
 
-```
+```text
 oz_02_collabo-007-BE/
 ├── config/                    # 프로젝트 설정 파일
 │   ├── settings.py            # Django 설정
